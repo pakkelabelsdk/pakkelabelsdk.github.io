@@ -495,7 +495,7 @@ jQuery(document).ready(function () {
         clearAgents(isParcel);
 
         jQuery.ajax({
-            url: "https://app.pakkelabels.dk/api/v1/quotes.jsonp",
+            url: "https://app.shipmondo.com/api/v1/quotes.jsonp",
             jsonp: "callback",
             dataType: "jsonp",
             data: {

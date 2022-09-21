@@ -1,0 +1,230 @@
+#footer .sign-up {
+    display: block;
+}
+
+.select2 {
+    width: 70% !important;
+    min-width: 140px;
+
+    padding-bottom: 2px;
+    padding-left: 8px;
+    /*   margin-left: 16px;*/
+}
+
+@media screen and (max-width: 767px) {
+    .select2 {
+        width: 100% !important;
+    }
+}
+
+.select2-container--default.select2-container--open {
+    background-color: #FFFFFF;
+    border-radius: 8px 8px 0 0;
+}
+
+.select2-container--default .select2-search--dropdown .select2-search__field, .select2-dropdown {
+    border: none !important;
+    background-color: #FFFFFF;
+}
+
+.country-selector-row {
+    /*margin-bottom: -40px;*/
+    margin-bottom: -35px;
+}
+
+.prices-banner {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.prices-banner > p {
+    max-width: 580px;
+    margin: auto;
+}
+
+.main-content {
+    margin-top: -30px;
+    margin-bottom: -30px !important;
+    background-color: #F4F8F9;
+    padding-bottom: 40px;
+}
+
+.carrier-products {
+    margin-bottom: 110px;
+}
+
+.carrier-products .boxes .box {
+    max-width: 400px;
+    margin: auto;
+    border-radius: 8px;
+
+}
+
+.carrier-products .boxes .size {
+    font-size: 40px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-family: proximanova_light, Arial, Helvetica, sans-serif;
+}
+
+.main-text {
+    margin-top: 40px;
+
+}
+
+.our-prices {
+    /*margin-top: -40px;*/
+    margin-top: -32px;
+}
+
+.our-prices > .container {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.select2-container--default .select2-selection--single {
+    border: none !important;
+    background-color: transparent !important;
+}
+
+.shipping-agent {
+    margin-top: 30px;
+}
+
+.shipping-agent > .row {
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    margin: 0;
+    min-height: 594px;
+}
+
+.shipping-agent > .row .logo {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    border-bottom: 1px #F4F8F9 solid;
+
+}
+
+.shipping-agent > .row .logo img {
+    margin: auto;
+    max-height: 39px;
+}
+
+.shipping-agent.pdk > .row .logo img {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.shipping-agent > .row .rates {
+    margin-top: 10px;
+}
+
+.shipping-agent > .row p {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 14px;
+    padding-bottom: 8px;
+}
+
+.shipping-agent > .row .rates > p {
+    border-bottom: 1px #F4F8F9 solid;
+    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    color: #53535b;
+
+}
+
+.shipping-agent > .row .rates .shipping-not-possible {
+    border: none;
+    font-family: proximanova, Arial, Helvetica, sans-serif;
+    color: #7c8a98;;
+
+}
+
+.shipping-agent > .row .rates .pull-right {
+    font-family: proximanova, Arial, Helvetica, sans-serif;
+    color: #7c8a98;;
+}
+
+.shipping-agent > .row .products {
+    text-align: center;
+}
+
+.shipping-agent > .row .deliveryTime {
+    text-align: center;
+}
+
+.shipping-agent > .row .deliveryTime .headline {
+    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    color: #53535b;
+
+}
+
+.shipping-agent > .row .products .headline {
+    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    color: #53535b;
+    text-align: center;
+}
+
+.shipping-agent > .row .deliveryTime > p {
+    border-bottom: 1px #F4F8F9 solid;
+}
+
+.shipping-agent > .row .products > p {
+    border-bottom: 1px #F4F8F9 solid;
+}
+
+.shipping-agent > .row > .col-xs-12 {
+    padding: 0;
+}
+
+.shipping-agent .note > p {
+    padding-bottom: 0;
+    text-align: center;
+}
+
+.shipping-agent .note .requirements {
+    text-align: center;
+}
+
+.prices-without-vat {
+    text-align: center;
+    font-size: 18px;
+    color: #53535b;
+    margin-bottom: 48px;
+
+}
+
+.shipping-agent .note .pickup-included {
+    border-bottom: 1px #F4F8F9 solid;
+    padding-bottom: 8px;
+}
+/*.carrier-prices {
+    margin-top: 32px;
+}*/
+
+.carrier-prices h3, .carrier-prices .go-to-pallet {
+    font-size: 18px;
+    padding-top: 32px;
+
+}
+
+.carrier-prices .go-to-pallet {
+    /*font-size: 18px;*/
+    color: #3DB8DB;
+    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    cursor: pointer;
+
+    /*margin-left: 16px;*/
+    float: right;
+}
+
+.our-prices-intro .text-center {
+    max-width: 580px;
+    margin: auto;
+}
+
+/*
+
+
+*/

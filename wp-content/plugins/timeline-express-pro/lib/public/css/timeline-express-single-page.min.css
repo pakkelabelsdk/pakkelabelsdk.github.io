@@ -1,0 +1,8 @@
+/*
+ * @Plugin Timeline Express Pro
+ * @Author Code Parrots
+ * @Site https://www.wp-timelineexpress.com
+ * @Version 2.0.4
+ * @Build 12-06-2017
+ */
+body.single-te_announcements .timeline-express-single-page-announcement-date{display:inline-block;margin:.5em 0}body.single-te_announcements .timeline-express-tax-container{display:inline-block;margin-bottom:10px}body.single-te_announcements .timeline-express-tax-container .pre-text{font-weight:700}body.single-te_announcements .timeline-express-tax-container+.timeline-express-tax-container{margin-left:5px}body.single-te_announcements .timeline-express-tax-container+.timeline-express-tax-container:before{content:"\25cf"}

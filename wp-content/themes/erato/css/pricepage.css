@@ -65,7 +65,7 @@
     font-size: 40px;
     margin-top: 16px;
     margin-bottom: 16px;
-    font-family: proximanova_light, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .main-text {
@@ -129,20 +129,20 @@
 
 .shipping-agent > .row .rates > p {
     border-bottom: 1px #F4F8F9 solid;
-    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #53535b;
 
 }
 
 .shipping-agent > .row .rates .shipping-not-possible {
     border: none;
-    font-family: proximanova, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #7c8a98;;
 
 }
 
 .shipping-agent > .row .rates .pull-right {
-    font-family: proximanova, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #7c8a98;;
 }
 
@@ -155,13 +155,13 @@
 }
 
 .shipping-agent > .row .deliveryTime .headline {
-    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #53535b;
 
 }
 
 .shipping-agent > .row .products .headline {
-    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #53535b;
     text-align: center;
 }
@@ -212,7 +212,7 @@
 .carrier-prices .go-to-pallet {
     /*font-size: 18px;*/
     color: #3DB8DB;
-    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     cursor: pointer;
 
     /*margin-left: 16px;*/

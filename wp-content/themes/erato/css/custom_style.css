@@ -451,7 +451,7 @@ img.img-border {
     border-radius: 6px;
     /*padding: 7px 20px 9px;
     margin-top: -4px;*/
-    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 
     padding: 5px 16px 5px;
     margin-top: -2px;
@@ -643,7 +643,7 @@ li.sfHover > a {
     font-size: 14px;
     /*font-weight: 600;*/
 
-    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 
@@ -664,7 +664,7 @@ li.sfHover > a {
     border-bottom-color: transparent;
     text-transform: capitalize;
     font-size: 14px;
-    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #footer a {
@@ -1082,7 +1082,7 @@ li.sfHover > a {
 
 .feature-row .icon-list .feature {
     color: #53535b;
-    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
 }
 
@@ -1725,7 +1725,7 @@ li.sfHover > a {
 }
 
 .press-images {
-    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .press-images .press-images-download {
@@ -1853,7 +1853,7 @@ li.sfHover > a {
 
 .getting-started-banner .getting-started-banner-content p {
     /*margin: 0;*/
-    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     font-weight: normal;
     max-width: 580px;
@@ -1960,7 +1960,7 @@ li.sfHover > a {
     border-radius: 8px;
     padding: 7px 20px 9px;
     font-size: 14px;
-    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 
@@ -2294,7 +2294,7 @@ li.sfHover > a {
     font-size: 40px;
     margin-top: 16px;
     margin-bottom: 16px;
-    font-family: proximanova_light, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 
@@ -2425,7 +2425,7 @@ li.sfHover > a {
     border-radius: 8px;
     padding: 7px 20px 9px;
     font-size: 14px;
-    font-family: proximanova_sbold, Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     min-width: 180px;
 }
 

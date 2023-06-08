@@ -43,41 +43,6 @@
   unicode-range: U+0020-FB02;
 }
 
-@font-face {
-    font-family: 'proximanova';
-    src: url('./../fonts/Proxima Nova/proximanova-regular-webfont.eot'); /* IE9 Compat Modes */
-    src: url('./../fonts/Proxima Nova/proximanova-regular-webfont.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
-        url('./../fonts/Proxima Nova/proximanova-regular-webfont.svg#svgFontName') format('svg'), /* Legacy iOS */
-        url('./../fonts/Proxima Nova/proximanova-regular-webfont.woff') format('woff'), /* Modern Browsers */
-        url('./../fonts/Proxima Nova/proximanova-regular-webfont.ttf')  format('truetype'); /* Safari, Android, iOS */
-}
-@font-face {
-    font-family: 'proximanova_sbold';
-    src: url('./../fonts/Proxima Nova/proximanova-sbold-webfont.eot'); /* IE9 Compat Modes */
-    src: url('./../fonts/Proxima Nova/proximanova-sbold-webfont.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('./../fonts/Proxima Nova/proximanova-sbold-webfont.svg#svgFontName') format('svg'), /* Legacy iOS */
-         url('./../fonts/Proxima Nova/proximanova-sbold-webfont.woff') format('woff'), /* Modern Browsers */
-         url('./../fonts/Proxima Nova/proximanova-sbold-webfont.ttf')  format('truetype'); /* Safari, Android, iOS */
-}
-@font-face {
-    font-family: 'proximanova_bold';
-    src: url('./../fonts/Proxima Nova/proximanova-bold-webfont.eot'); /* IE9 Compat Modes */
-    src: url('./../fonts/Proxima Nova/proximanova-bold-webfont.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('./../fonts/Proxima Nova/proximanova-bold-webfont.svg#svgFontName') format('svg'), /* Legacy iOS */
-         url('./../fonts/Proxima Nova/proximanova-bold-webfont.woff') format('woff'), /* Modern Browsers */
-         url('./../fonts/Proxima Nova/proximanova-bold-webfont.ttf')  format('truetype'); /* Safari, Android, iOS */
-}
-
-@font-face {
-    font-family: 'proximanova_light';
-    src: url('./../fonts/Proxima Nova/proximanova-light-webfont.eot'); /* IE9 Compat Modes */
-    src: url('./../fonts/Proxima Nova/proximanova-light-webfont.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
-        url('./../fonts/Proxima Nova/proximanova-light-webfont.svg#svgFontName') format('svg'), /* Legacy iOS */
-         url('./../fonts/Proxima Nova/proximanova-light-webfont.woff') format('woff'), /* Modern Browsers */
-         url('./../fonts/Proxima Nova/proximanova-light-webfont.ttf')  format('truetype'); /* Safari, Android, iOS */
-}
-
-
 /*body{
   font-family: BrandonGrotesque-Regular, Open Sans, Arial, Helvetica, sans-serif;
   font-size: 16px;
